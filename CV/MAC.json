@@ -434,12 +434,6 @@
       },
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Ruby on Rails",
           "type": "technology"
         }
@@ -482,12 +476,6 @@
       },
       {
         "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MySQL",
           "type": "technology"
         }
@@ -507,12 +495,6 @@
       {
         "skill": {
           "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Svelte",
           "type": "technology"
         }
       },
