@@ -1,0 +1,633 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Abilio",
+      "surnames": "Almeida Eiroa",
+      "title": "Product Engineer",
+      "description": "I like to promote an inclusive work environment while helping to achieve company goals by mentoring and empowering people. I also like to promote and ensure development practices for a good product maintenance. I like to work as a team to solve end to end problems. ",
+      "avatar": {
+        "alt": "T04AJGZS1-UC1G4CA7L-879085f03165-512.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/be42a3df-447e-4429-8c4d-1aebbdb400b1_t04ajgzs1-uc1g4ca7l-.png"
+      },
+      "location": {
+        "notes": "Vigo, Galicia, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/aabilio"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/1715957/aabilio"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/aabilio"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/aabilio"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favorite album",
+        "fact": "Instant coffee baby by The wave pictures "
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Nextail Labs",
+          "image": {
+            "alt": "Nextail Labs",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2447eb4-be28-4775-ab23-ff9968c3c523_rlcij.jpg"
+          },
+          "URL": "http://nextail.co/"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead",
+            "startDate": "2018-08-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Self employed"
+        },
+        "roles": [
+          {
+            "name": "Private Computer Programming Tutor",
+            "startDate": "2015-05-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "Private sessions with Computer Engineer college students (Intelligent Systems, Programming Methodology, ...)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vidahora",
+          "image": {
+            "alt": "Vidahora",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/694a7779-ab6f-4816-aae1-9eab72a76354_wbi6a.png"
+          },
+          "URL": "http://vidahora.com"
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2015-02-01",
+            "finishDate": "2018-08-01",
+            "challenges": [
+              {
+                "description": "*   Design and develop new features to our core system\n*   Design new technical solutions for client requirements\n*   Administrate company production and sales environment"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "ECMAScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Weknow Creative",
+          "image": {
+            "alt": "Weknow Creative",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/aac145e0-34da-49df-a428-b1e3a2b24b9f_ntuut.jpg"
+          },
+          "URL": "https://twitter.com/weknower"
+        },
+        "roles": [
+          {
+            "name": "Founder",
+            "startDate": "2013-02-01",
+            "finishDate": "2015-02-28",
+            "challenges": [
+              {
+                "description": "*   Design and develop backend architecture\n*   Design and develop the cliente side applications (web and Cordova mobile applications)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Augenblick Technologie",
+          "image": {
+            "alt": "Augenblick Technologie",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e0555f58-cd31-4aa3-a6a3-b11b0dc96b50_2gaqm.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Founder",
+            "startDate": "2012-02-01",
+            "finishDate": "2013-02-28",
+            "challenges": [
+              {
+                "description": "*   Design and develop e-commerce solutions for retail clients\n*   Linux System Administrator"
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Scenon Project",
+          "description": "*   Design and develop the backend and frontend architecture",
+          "URL": "http://scenon.com/",
+          "image": {
+            "alt": "Scenon Project",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/4c115e6f-f2a8-46e1-98eb-2e64c4c53a5e_crgrw.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-04-01",
+            "finishDate": "2015-04-01",
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "aabilio/PyDownTV2",
+          "description": "Pydowntv was a web for download videos from Spanish and Latam television websites",
+          "URL": "https://github.com/aabilio/PyDownTV2"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2010-10-01",
+            "finishDate": "2014-09-30",
+            "competences": [
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Top 10% at Stack Overflow answers",
+          "description": "This user is part of the top 10% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Top 5% at Stack Overflow answers",
+          "description": "This user is part of the top 5% Stack Overflow answerers in these technologies"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "jQuery",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Official Master's Degree in Information Security",
+        "startDate": "2016-09-01",
+        "finishDate": "2017-09-30",
+        "institution": {
+          "name": "UNIR",
+          "URL": "http://www.unir.net/",
+          "image": {
+            "alt": "Official Master's Degree in Information Security",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/d4b9a808-682e-45c3-8f3c-fcc76c0fd840_q82yv.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Technical Engineering in Computer Systems",
+        "startDate": "2006-09-01",
+        "finishDate": "2011-09-30",
+        "institution": {
+          "name": "Universidad de Salamanca",
+          "URL": "http://www.usal.es/",
+          "image": {
+            "alt": "Technical Engineering in Computer Systems",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/77645d0e-a5d9-4187-8321-cfd45861dbcd_fhog2.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/aabilio"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/1715957/aabilio"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Redux",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        },
+        {
+          "name": "Svelte",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
