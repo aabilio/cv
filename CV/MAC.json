@@ -574,10 +574,6 @@
           "type": "technology"
         },
         {
-          "name": "JavaScript",
-          "type": "technology"
-        },
-        {
           "name": "MySQL",
           "type": "technology"
         },
@@ -595,14 +591,6 @@
         },
         {
           "name": "Redux",
-          "type": "technology"
-        },
-        {
-          "name": "Ruby on Rails",
-          "type": "technology"
-        },
-        {
-          "name": "Svelte",
           "type": "technology"
         },
         {
