@@ -460,7 +460,7 @@
       {
         "details": {
           "name": "aabilio/PyDownTV2",
-          "description": "Pydowntv was a web for download videos from Spanish and Latam television websites",
+          "description": "The platform was made up of:\n - A Python library for managing TV channels\n - A webapp\n -Android apps\n - JSON API used by multiple clients (Casting android app among others, XBMC and Blusens WebTV plugins, ...)\n - Script for GNU/Linux, OSX and Windows terminals\n - Extensions for Chrome, Safari and Firefox browsers\n - Iframes to embed in third party pages\n\n Technologies:\n * The library: \"spaintvs\"  (Python)\n * Script for tests (Python)\n * New web version (Python, Flask, Google App Engine, HTML5, CSS3, javascript)\n * API (JSON, REST)\n * Desktop Version (C++ & QT)\n * Android version (Java, Android SDK)",
           "URL": "https://github.com/aabilio/PyDownTV2"
         },
         "type": "openSource",
