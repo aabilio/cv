@@ -59,7 +59,12 @@
         "roles": [
           {
             "name": "Tech Lead",
-            "startDate": "2018-08-01",
+            "startDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "As a tech lead I have to provide a technical direction and bring the technical vision of the company to the squad, resolving technical disagreements and managing the technical quality of team deliverables. Ensures the team uses appropriate engineering practices (such as CD or automated testing), invests in continual improvements to tooling or technical debt, and that the system evolves to meet its changing needs and environment. With focus on evaluating the technical feasibility and the technical quality of the work and ensuring technical alignment within the squad, and also focus on the architecture definition within the squad’s domain and on development efficiency."
+              }
+            ],
             "competences": [
               {
                 "name": "AWS",
