@@ -284,7 +284,7 @@
             "finishDate": "2015-02-28",
             "challenges": [
               {
-                "description": "*   Design and develop backend architecture\n*   Design and develop the cliente side applications (web and Cordova mobile applications)"
+                "description": "WeKnow was a social network for voting within a group of images.\n\nAs a technical co-founder I've been in charge of the technical vision and direction.\nThe most of my time I've been developing the backend, and web frontend. Also the iOS application and the internal administration panl.\n\nDesign and development:\n  - Web Backend (Symfony, AWS Elastick Beanstalk)\n  - Web Frontend (React/Redux)\n  - HTTP API (REST)\n  - iOS applications (AngularJS, Cordova)"
               }
             ],
             "competences": [
