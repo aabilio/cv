@@ -171,12 +171,12 @@
         },
         "roles": [
           {
-            "name": "Private Computer Programming Tutor",
+            "name": "Software Engineer private Tutor",
             "startDate": "2015-05-01",
             "finishDate": "2017-10-31",
             "challenges": [
               {
-                "description": "Private sessions with Computer Engineer college students (Intelligent Systems, Programming Methodology, ...)"
+                "description": "Private sessions with Computer Engineering students in subjects such as Programming Methodologies or Intelligent Systems through languages ​​such as Python and Java"
               }
             ],
             "competences": [
