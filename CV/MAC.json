@@ -220,7 +220,7 @@
             "finishDate": "2018-08-01",
             "challenges": [
               {
-                "description": "*   Design and develop new features to our core system\n*   Design new technical solutions for client requirements\n*   Administrate company production and sales environment"
+                "description": "Vidahora is an effective and attractive workplace wellness platform to promote healthy habits in organizations by adapting our occupational health programs to the needs of the company and the worker.  Workers will find an environment to cover their needs in physical activity, food, leisure and stress management.\n\nMy main goal was to provide the company's technological vision and direction.\n\nAt Vidahora I design and develop web platforms, applications and games for workers in large organizations through technologies and tools such as React/Redux, Python, MySQL, PHP, AWS (EC2, SQS, SES, S3, Lambda), AngularJS or Ionic."
               }
             ],
             "competences": [
