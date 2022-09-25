@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/be42a3df-447e-4429-8c4d-1aebbdb400b1_t04ajgzs1-uc1g4ca7l-.png"
       },
       "location": {
-        "notes": "Vigo, Galicia, ES"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Vigo"
       }
     },
     "relevantLinks": [
@@ -428,6 +430,18 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -440,49 +454,13 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
+          "name": "TestingLibrary",
           "type": "technology"
         }
       },
@@ -494,13 +472,37 @@
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TestingLibrary",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       }
