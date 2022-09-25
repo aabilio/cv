@@ -50,10 +50,6 @@
       {
         "organization": {
           "name": "Nextail Labs",
-          "image": {
-            "alt": "Nextail Labs",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2447eb4-be28-4775-ab23-ff9968c3c523_rlcij.jpg"
-          },
           "URL": "http://nextail.co/"
         },
         "roles": [
@@ -92,6 +88,57 @@
               },
               {
                 "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nextail",
+          "URL": "http://nextail.co"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2018-08-01",
+            "finishDate": "2020-04-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Aurora",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Redshift",
                 "type": "technology"
               },
               {
