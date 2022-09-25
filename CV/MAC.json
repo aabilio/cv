@@ -631,6 +631,7 @@
         "finishDate": "2017-09-30",
         "institution": {
           "name": "UNIR",
+          "description": "This university postgraduate degree in Cybersecurity covers the detailed aspects of the preparation and technical analysis of systems (vulnerability and malware analysis, frequent attack techniques, forensic analysis, etc.) combined with a complete preparation in legal aspects (regulation of telecommunications, privacy, intellectual property, cybercrimes) and the skills necessary for management (auditing, standards and processes).",
           "URL": "http://www.unir.net/",
           "image": {
             "alt": "Official Master's Degree in Information Security",
