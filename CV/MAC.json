@@ -113,6 +113,10 @@
       {
         "organization": {
           "name": "Nextail",
+          "image": {
+            "alt": "Screenshot_2022-09-25-18-35-48-43_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/25/7eb219f1-f22b-4770-81c2-44680f09a293_screenshot_2022-09-2.jpg"
+          },
           "URL": "http://nextail.co"
         },
         "roles": [
