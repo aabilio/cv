@@ -326,11 +326,7 @@
       },
       {
         "organization": {
-          "name": "Augenblick Technologie",
-          "image": {
-            "alt": "Augenblick Technologie",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e0555f58-cd31-4aa3-a6a3-b11b0dc96b50_2gaqm.png"
-          }
+          "name": "Augenblick Technologie"
         },
         "roles": [
           {
@@ -357,6 +353,65 @@
               },
               {
                 "name": "Prestashop",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2005-01-01",
+            "finishDate": "2013-02-01",
+            "challenges": [
+              {
+                "description": "Design and development of different web pages and web platforms, electronic commerce, and mobile applications for clients of all kinds: small and medium-sized companies, pharmacies, etc."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Qt",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "WooCommerce",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
                 "type": "technology"
               }
             ]
