@@ -641,11 +641,12 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Technical Engineering in Computer Systems",
+        "name": "Bachelor of ingeneering on Computer Science",
         "startDate": "2006-09-01",
         "finishDate": "2011-09-30",
         "institution": {
           "name": "Universidad de Salamanca",
+          "description": "Studies focused on the design, development, configuration and application of computer systems, software and computer architecture and technology.  With opportunities as system and network administrator, analyst, consultant and adviser of systems and programming languages, computer technical auditor as well as in various positions in the field of Public Administrations.",
           "URL": "http://www.usal.es/",
           "image": {
             "alt": "Technical Engineering in Computer Systems",
