@@ -620,6 +620,12 @@
           "name": "HTML",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -710,6 +716,10 @@
         },
         {
           "name": "Redux",
+          "type": "technology"
+        },
+        {
+          "name": "Snowflake",
           "type": "technology"
         },
         {
