@@ -57,6 +57,22 @@
             "startDate": "2023-01-01",
             "competences": [
               {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
                 "name": "MongoDB",
                 "type": "technology"
               },
